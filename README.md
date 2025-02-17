@@ -15,9 +15,6 @@ I spend most of my time in [Neovim][neovim] running inside [Wezterm][wezterm],
 thanks to help of [rust-analyzer][lsp]. I cannot live without
 [Starship][starship], [Ripgrep][rg], and [Delta][delta].
 
-Unfortunately, I cannot make many public open source contributions/projects due
-to my employer; but I do love open source!
-
 You can find me on <a rel="me" href="https://osbar.space/@p">Mastodon</a>.
 
 [neovim]: https://github.com/neovim/neovim
